@@ -10,8 +10,6 @@ export default function Home() {
     <>
       <Head>
         <title>Headphone card</title>
-        <meta name="возьмите меня на работу))" content="я же лучший ;)" />
-        <meta name="и это мой первый 'проект' на next.js" content="раньше писал только на react.js ;)" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main className={styles.main}>
